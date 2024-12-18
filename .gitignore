@@ -1,0 +1,5 @@
+.venv
+src/__pycache__
+src/media/images
+src/media/texts
+src/media/**/partial_movie_files
